@@ -23,6 +23,10 @@ As cyber threats continue to evolve, organizations must adopt sophisticated syst
 
 The cybersecurity data collection and processing system is designed to handle large volumes of security data from diverse sources. It consists of multiple components, including security tools, agents, log collectors, data processors, and analytics platforms. The system’s architecture ensures seamless data flow, real-time processing, and actionable insights.
 
+## High Level Diagram
+
+![HLD](./fleet-style.jpg)
+
 ## Components
 
 ### Detailed Notes for Each Component
