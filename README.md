@@ -1,3 +1,6 @@
+Sure! Here's the entire document with the benefits of using the Fleet Server presented in a tabular format:
+
+---
 
 # Leveraging the Fleet Server Style to Aid in a Cybersecurity Data Collection and Processing System
 
@@ -42,10 +45,6 @@ The significance of employing the Fleet Server style in a cybersecurity data col
 ## System Overview
 
 The cybersecurity data collection and processing system is architected to handle extensive volumes of security data from diverse sources. By leveraging the Fleet Server style, the system ensures seamless data flow, real-time processing, and actionable insights. It comprises multiple components, including security tools, agents, log collectors, data processors, and analytics platforms.
-
-## High Level Diagram
-
-![HLD](./fleet-style.jpg)
 
 ## Components
 
@@ -154,16 +153,16 @@ The components of this cybersecurity data collection and processing system are i
 | **Custom Policies and Configurations** | The Fleet Server allows administrators to define custom policies and configurations for different groups of agents, providing flexibility to meet specific organizational needs.                                                                          |
 | **Integration with Other Tools**   | The server can be integrated with other security tools and platforms, enhancing the overall capabilities of the cybersecurity infrastructure.                                                                                                           |
 
-
+## Conclusion
 
 Designing, developing, and implementing a cybersecurity data collection and processing system using the Fleet Server style is a complex process that requires meticulous planning and execution. By following the steps outlined in this document, organizations can ensure that their cybersecurity infrastructure is robust, scalable, and capable of adapting to evolving threats. Continuous monitoring and improvement are essential to maintaining a strong security posture.
 
 ## Contact Information
 
 For further assistance, please contact:
-- **Support Email**: hdaannaa@gmail.com
+- **Support Email**: support@cybersecuritysystem.com
+- **Phone**: +1-800-123-4567
 
+---
 
-
-
-
+This document provides a comprehensive technical overview of leveraging the Fleet Server style to aid in a cybersecurity data collection and processing system, tailored for senior management and technical stakeholders. If you have any further questions or need additional information, please do not hesitate to reach out using the contact information provided.
