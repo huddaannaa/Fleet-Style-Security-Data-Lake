@@ -12,8 +12,7 @@
 7. [Data Flow](#data-flow)
 8. [Interconnection of Components](#interconnection-of-components)
 9. [Benefits of Using the Fleet Server](#benefits-of-using-the-fleet-server)
-10. [Conclusion](#conclusion)
-11. [Contact Information](#contact-information)
+10. [Contact Information](#contact-information)
 
 ## Executive Summary
 
@@ -154,7 +153,6 @@ The components of this cybersecurity data collection and processing system are i
 | **Custom Policies and Configurations** | The Fleet Server allows administrators to define custom policies and configurations for different groups of agents, providing flexibility to meet specific organizational needs.                                                                          |
 | **Integration with Other Tools**   | The server can be integrated with other security tools and platforms, enhancing the overall capabilities of the cybersecurity infrastructure.                                                                                                           |
 
-## Conclusion
 
 Designing, developing, and implementing a cybersecurity data collection and processing system using the Fleet Server style is a complex process that requires meticulous planning and execution. By following the steps outlined in this document, organizations can ensure that their cybersecurity infrastructure is robust, scalable, and capable of adapting to evolving threats. Continuous monitoring and improvement are essential to maintaining a strong security posture.
 
