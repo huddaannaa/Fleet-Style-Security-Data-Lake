@@ -43,6 +43,10 @@ The significance of employing the Fleet Server style in a cybersecurity data col
 
 The cybersecurity data collection and processing system is architected to handle extensive volumes of security data from diverse sources. By leveraging the Fleet Server style, the system ensures seamless data flow, real-time processing, and actionable insights. It comprises multiple components, including security tools, agents, log collectors, data processors, and analytics platforms.
 
+## HLD
+
+![HLD](./fleet-style.jpg)
+
 ## Components
 
 ### Detailed Notes for Each Component
