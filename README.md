@@ -1,6 +1,3 @@
-Certainly! Here is the corrected document with the benefits of using the Fleet Server presented in a tabular format, ensuring that the Scalability section is properly formatted:
-
----
 
 # Leveraging the Fleet Server Style to Aid in a Cybersecurity Data Collection and Processing System
 
@@ -102,7 +99,7 @@ The components of this cybersecurity data collection and processing system are i
 | **Simplified Deployment and Configuration** | The Fleet Server provides a centralized platform for deploying, configuring, and managing agents across the entire infrastructure. This simplifies the process of ensuring that all endpoints and servers are consistently configured and up-to-date.       |
 | **Unified Interface**                       | Administrators can use a single interface to manage all agents, reducing the complexity of multi-agent environments and ensuring consistency in data collection
 
-.                                                                                        |
+.                                                                                        
 
 ### Scalability
 
@@ -160,9 +157,8 @@ Designing, developing, and implementing a cybersecurity data collection and proc
 ## Contact Information
 
 For further assistance, please contact:
-- **Support Email**: support@cybersecuritysystem.com
-- **Phone**: +1-800-123-4567
+- **Support Email**: hdaannaa@gmail.com
 
 ---
 
-This document provides a comprehensive technical overview of leveraging the Fleet Server style to aid in a cybersecurity data collection and processing system, tailored for senior management and technical stakeholders. If you have any further questions or need additional information, please do not hesitate to reach out using the contact information provided.
+Designed by Hud Daannaa
